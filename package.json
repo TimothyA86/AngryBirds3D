@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "three": "^0.87.1",
+        "physijs": "^0.0.4"
+    }
+}
